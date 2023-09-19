@@ -1,0 +1,8 @@
+Operações Lógicas
+
+P ^ Q =      F
+~ (p^q) =    V
+~p ^ ~q =    F
+P v ~P ^ Q = V
+P <> Q =     F
+P > Q =      F 

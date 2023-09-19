@@ -1,0 +1,21 @@
+INTRODUÇÃO A LÓGICA
+
+1. F
+   v
+   F
+   V
+   F
+
+2. P v Q ~R
+   P ^ Q v ~P ^ R
+   ~P ^ ~R
+   ~Q v R ^ ~P
+   R > P <> Q
+
+3. Carlos fala francês e não alemão
+	
+   Carlos fala alemão ou inglês
+   
+   Carlos não fala francês
+   
+   	
